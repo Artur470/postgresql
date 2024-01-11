@@ -1,6 +1,6 @@
 Skip to content
- .idea
- db.sqlite3
+.idea
+db.sqlite3
 .env
 venv
 
